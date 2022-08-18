@@ -18,3 +18,9 @@ int main(){
 }
 
 //  print only upto 3 decimal values  -->  %f
+
+
+output:
+Enter radius of circle 6
+Area of circle : 113.040
+
